@@ -1,0 +1,6 @@
+token=NjM0Njk3MTk2NDAyNjM4ODQ4.XamR4g.3CT35ImAU4ICsAn9U600TJEy2dI
+owner=282243283734757376
+prefix=kplay
+game=kplay Vip
+stayinchannel=true
+songinstatus=true
